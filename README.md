@@ -2,5 +2,5 @@
 
 Tutoriales ROS
 
-Terminados los primeros 3 tutoriales
+Terminados los 13 primeros tutoriales
 
